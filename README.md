@@ -22,7 +22,7 @@ This stage I learned:
 <!-- <p align="center"> img preview do projeto 
   <img alt="preview" src="./assets/preview.png" width="100%">
 </p>
- -->
+ 
  <br/>
 
 # 🔨 Funcionalidades do projeto
