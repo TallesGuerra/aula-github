@@ -1,9 +1,9 @@
 
-### Aula de Git & Github 
+<h1 align="center"> Aula de Git & Github </h1>
 
 <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/></p>
 
-<p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EMPROGRESSO&color=GREEN&style=for-the-badge"/></p>
+<!-- <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=Em PROGRESSO&color=GREEN&style=for-the-badge"/></p> -->
 
 This stage I learned: 
 
