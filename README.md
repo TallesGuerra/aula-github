@@ -19,11 +19,11 @@ This stage I learned:
 - Git clone
 - Git pull
 
-<p align="center"> <!-- img preview do projeto -->
+<!-- <p align="center"> img preview do projeto 
   <img alt="preview" src="./assets/preview.png" width="100%">
 </p>
-
-<!-- <br/>
+ -->
+ <br/>
 
 # 🔨 Funcionalidades do projeto
 
